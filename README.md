@@ -1,5 +1,5 @@
 # WoSpiCat
-Parsing the World Spider Catalogue (WSCA) from https://wsc.nmbe.ch/
+Parsing the World Spider Catalogue (WSCA) from https://wsc.nmbe.ch/ \
 You can find a quick tutorial here: https://youtu.be/FVFAU0lHsic
 
 File created on December 12th 2020 by Uriel Garcilazo Cruz. The script takes a .txt file containing a page from a family copied from the WSCA and return an output.txt file
